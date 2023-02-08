@@ -1,3 +1,4 @@
 checkpoints filter=lfs diff=lfs merge=lfs -text
 checkpoints_archive filter=lfs diff=lfs merge=lfs -text
 datasets filter=lfs diff=lfs merge=lfs -text
+* filter=lfs diff=lfs merge=lfs -text
